@@ -1,1 +1,2 @@
-print('beeschurger')
+good = 'beeschurger'
+print('the good shit is' + good)
